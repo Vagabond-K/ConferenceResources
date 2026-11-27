@@ -4,12 +4,12 @@
 
 ## 💾 목록
 
-| 제목 | 발표일 | 행사명 | 
-|---|:---:|:---:|
-| [GPU를 이용한 공간보간 Heat map 구현 사례 소개](Slides/GPU를%20이용한%20공간보간%20Heat%20map%20구현%20사례%20소개.pptx) | 2025. 1. 9. | [.NET Conf 2025 × Seoul](https://dotnetuniverse.net/2025) |
+| 제목 | 발표일 | 행사명 | 다시보기 |
+|---|:---:|:---:|:---:|
+| [GPU를 이용한 공간보간 Heat map 구현 사례 소개](Slides/GPU를%20이용한%20공간보간%20Heat%20map%20구현%20사례%20소개.pptx) | 2025. 1. 9. | [.NET Conf 2025 × Seoul](https://dotnetuniverse.net/2025) | [링크](https://youtu.be/Zm5M0Px0cKI) |
 | [.NET을 이용한 벡터 그래픽스 기반 컴포넌트 구현 사례 소개](Slides/.NET을%20이용한%20벡터%20그래픽스%20기반%20컴포넌트%20구현%20사례%20소개.pptx) | 2025. 10. 24. | [dot4 10월 밋업](https://onoffmix.com/event/332460) |
 | [WPF 사용자의 Web Front-end 적응기 - Blazor와 인라인 SVG, SMIL의 케미스트리](Slides/WPF%20사용자의%20Web%20Front-end%20적응기%20-%20Blazor와%20인라인%20SVG,%20SMIL의%20케미스트리.pptx) | 2025. 11. 27. | [.NET Conf 2025 @Seoul](https://conf.dot4.kr/) |
-| [.NET nanoFramework로 MCP 서버 임베디드 장치 만들기](Slides/.NET%20nanoFramework로%20MCP%20서버%20임베디드%20장치%20만들기.pptx) | 2026. 3. 12. | [.NET Universe 2026](https://dotnetuniverse.net/2026) |
+| [.NET nanoFramework로 MCP 서버 임베디드 장치 만들기](Slides/.NET%20nanoFramework로%20MCP%20서버%20임베디드%20장치%20만들기.pptx) | 2026. 3. 12. | [.NET Universe 2026](https://dotnetuniverse.net/2026) | [링크](https://youtu.be/OXwZtvCTO_Q)
 | [C#으로 산업용 프로토콜을 변환해주는 임베디드 장치 만들기](Slides/C%23으로%20산업용%20프로토콜을%20변환해주는%20임베디드%20장치%20만들기.pptx) | 2026. 11. 26. | [.NET Conf 2026 @Seoul](https://ticketa.co/event/zry4rrhh) |
 
 
